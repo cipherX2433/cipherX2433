@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Ranjan and Undergrad Student</h1>
+<h1 align="center">Hi 👋, I'm Mohit Ranjan an Undergrad Student</h1>
 <h3 align="center">I'm a Machine Learning and Backend Engineer with a strong focus on designing scalable systems and developing intelligent solutions. Here's a bit about me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitranjan2433&label=Profile%20views&color=0e75b6&style=flat" alt="mohitranjan2433" /> </p>
