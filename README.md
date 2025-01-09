@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Achievements
+### 🚀 Contribution:
 - Contributed to high-performance backend systems using **Go**, **Node.js**, and **PostgreSQL**.
 - Developed and deployed ML models with **TensorFlow** and **PyTorch**.
 - Built real-time WebSocket-based chat applications with **Go Fiber**.
