@@ -19,7 +19,7 @@ Hi, I'm Mohit Ranjan!
 	</a>
 </p>
 <hr>
-<pre color="green">💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+<pre style="background-color: red; color: green;">💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the VIT UNIVERSITY
 📝 I have a strong interest in Backend Development and Artificial Intelligence
 🔭 Working on Deep Learning &amp; Machine Learning
@@ -41,6 +41,10 @@ Hi, I'm Mohit Ranjan!
     <a href="https://github.com/MohitRanjan2433"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&amp;logoColor=black"></a>
 <a href="https://github.com/MohitRanjan2433"><img alt="Go" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&amp;logoColor=white"></a>
 <a href="https://github.com/MohitRanjan2433"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&amp;logoColor=white"></a>
+
 
 </p><h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
 <p>
@@ -58,8 +62,10 @@ Hi, I'm Mohit Ranjan!
 </p>
 <h3 id="️-databases-and-cloud-hosting">🗄️ Databases and Cloud Hosting</h3>
 <p>
-    <a href="https://github.com/MohitRanjan2433"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&amp;logoColor=white"></a>
+    <a href="https://github.com/MohitRanjan2433"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2300A64B.svg?logo=mongodb&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300A4DB.svg?logo=mysql&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&amp;logoColor=white"></a>
+
 </p>
 <h3 id="-software-and-tools">💻 Software and Tools</h3>
 <p>
