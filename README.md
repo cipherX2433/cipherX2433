@@ -20,18 +20,17 @@ Hi, I'm Mohit Ranjan!
 </p>
 <hr>
 <pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📚 I have a Bachelors in Computer Science from the VIT UNIVERSITY
+📝 I have a strong interest in Backend Development and Artificial Intelligence
 🔭 Working on Deep Learning &amp; Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🌱 Learning about Natural Language Processing and Machine Learning stuff
+🌟 Main languages: Java, Go and Python
+🚩 Interested in Backend Machine Learning Application development
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="mailto:mohit.mr11082@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/mohit-ranjan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/MohitRanjan2433"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 	<a href="https://www.kaggle.com/mohitranjan"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a>
