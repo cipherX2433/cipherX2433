@@ -19,7 +19,7 @@ Hi, I'm Mohit Ranjan!
 	</a>
 </p>
 <hr>
-<pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+<pre color="green">💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the VIT UNIVERSITY
 📝 I have a strong interest in Backend Development and Artificial Intelligence
 🔭 Working on Deep Learning &amp; Machine Learning
