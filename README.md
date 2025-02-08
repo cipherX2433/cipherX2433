@@ -38,17 +38,23 @@ Hi, I'm Mohit Ranjan!
 <h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
 <h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
 <p>
-    <a href="https://github.com/MohitRanjan2433"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
+    <a href="https://github.com/MohitRanjan2433"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&amp;logoColor=black"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Go" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
+
 </p><h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
 <p>
     <a href="https://github.com/MohitRanjan2433"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&amp;logoColor=white"></a>
-    <a href="https://github.com/MohitRanjan2433"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&amp;logoColor=black"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?logo=nextdotjs&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="GoFiber" src="https://img.shields.io/badge/GoFiber%20-%2300ADD8.svg?logo=go&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="SpaCy" src="https://img.shields.io/badge/SpaCy%20-%23271F1F.svg?logo=spacy&amp;logoColor=white"></a>
+<a href="https://github.com/MohitRanjan2433"><img alt="NLTK" src="https://img.shields.io/badge/NLTK%20-%23D44B47.svg?logo=nltk&amp;logoColor=white"></a>
+
 </p>
 <h3 id="️-databases-and-cloud-hosting">🗄️ Databases and Cloud Hosting</h3>
 <p>
