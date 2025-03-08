@@ -19,13 +19,14 @@ Hi, I'm MRS
 	</a>
 </p>
 <hr>
-<pre style="background-color: red; color: green;">💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the VIT UNIVERSITY
-📝 I have a strong interest in Backend Development and Artificial Intelligence
-🔭 Working on Deep Learning &amp; Machine Learning
-🌱 Learning about Natural Language Processing and Machine Learning stuff
-🌟 Main languages: Java, Go and Python
-🚩 Interested in Backend Machine Learning Application development
+<pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px;">
+💻 I am a self-taught Backend Developer and a CyberSecurity student.
+📚 Currently pursuing a Bachelor's in Computer Science at VIT University.
+📝 Passionate about Backend Development and Artificial Intelligence.
+🔭 Working on Deep Learning & Machine Learning.
+🌱 Exploring Natural Language Processing and advanced ML concepts.
+🌟 Main languages: Java, Go, C++, and Python.
+🚀 Focused on optimizing API efficiency and performance.
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
