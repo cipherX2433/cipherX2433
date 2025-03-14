@@ -22,10 +22,10 @@ Hi, I'm MRS
 <pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px;">
 💻 I am a self-taught Backend Developer and a CyberSecurity student.
 📚 Currently pursuing a Bachelor's in Computer Science at VIT University.
-📝 Passionate about Backend Development and Artificial Intelligence.
-🔭 Working on Deep Learning & Machine Learning.
-🌱 Exploring Natural Language Processing and advanced ML concepts.
-🌟 Main languages: Java, Go, C++, and Python.
+📝 Passionate about Backend Development and CyberSecurity.
+🔭 Worked on Natural Language Processing and Generative AI.
+🌱 Exploring Pen Testing and Red Teaming techniques.
+🌟 Main languages: Go, Java, Python and C++.
 🚀 Focused on optimizing API efficiency and performance.
 </pre>
 <hr>
