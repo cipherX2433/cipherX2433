@@ -137,10 +137,10 @@ Hi, I'm MRS
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cipherX2433/cipherX2433/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.github.com/cipherX2433/cipherX2433/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/cipherX2433/cipherX2433/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.github.com/cipherX2433/cipherX2433/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
