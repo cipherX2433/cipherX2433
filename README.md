@@ -132,9 +132,9 @@ Hi, I'm MRS
   <img width="12" />
   <img src="https://cdn.simpleicons.org/threedotjs/000000" height="30" alt="threejs logo"  />
   <img src="https://cdn.simpleicons.org/metasploit/3e4d78" height="30" alt="metasploit logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Nmap_logo.svg" height="30" alt="Nmap"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Hydra-logo.svg" height="30" alt="Hydra"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Johntheripper.svg" height="30" alt="John the Ripper"/>
+  ![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Gold?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
 <img src="https://cdn.simpleicons.org/burpsuite/FF5733" height="30" alt="burpsuite logo"  />
 </div>
 
