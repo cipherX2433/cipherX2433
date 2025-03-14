@@ -29,13 +29,13 @@ Hi, I'm MRS
 🚀 Focused on optimizing API efficiency and performance.
 </pre>
 <hr>
-<h2 id="-connect-with-me">🤝 Connect with me</h2>
+<!-- <h2 id="-connect-with-me">🤝 Connect with me</h2>
 <p align="center">
 	<a href="mailto:mohit.mr11082@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/cipherX/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/cipherX2433"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 	<a href="https://www.kaggle.com/cipherX"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a>
-</p>
+</p> -->
 <h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
 <h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
 <p>
