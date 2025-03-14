@@ -133,9 +133,6 @@ Hi, I'm MRS
   <img src="https://cdn.simpleicons.org/threedotjs/000000" height="30" alt="threejs logo"  />
   <img src="https://cdn.simpleicons.org/metasploit/3e4d78" height="30" alt="metasploit logo"  />
   <img src="https://cdn.simpleicons.org/nmap/4682B4" height="30" alt="nmap logo"  />
-  <img src="https://cdn.simpleicons.org/hydra/FF4500" height="30" alt="hydra logo"  />
-  <img src="https://cdn.simpleicons.org/hashcat/006699" height="30" alt="hashcat logo"  />
-  <img src="https://cdn.simpleicons.org/johntheripper/CC0000" height="30" alt="johntheripper logo"  />
   <img src="https://cdn.simpleicons.org/burpsuite/FF5733" height="30" alt="burpsuite logo"  />
 </div>
 
