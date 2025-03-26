@@ -139,13 +139,3 @@ Hi, I'm MRS
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.github.com/cipherX2433/cipherX2433/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.github.com/cipherX2433/cipherX2433/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
