@@ -171,5 +171,8 @@ Hi, I'm MRS
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherX2433&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 Coding & 🔓 Hacking Profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/cipherX2433/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mrsspy)
 
 ###
