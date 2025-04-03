@@ -138,7 +138,27 @@ Hi, I'm MRS
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
  <a target="_blank" href="https://tryhackme.com/p/mrsspy"><img src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="Your Image Badge" />
-
 </div>
+<div align="center">
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/networking-nerd">
+    <img title="Networking Nerd" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/networkingnerd.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/webbed">
+    <img title="Webbed" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/webbed.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/cat-linux.txt">
+    <img title="Cat Linux.txt" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/catlinuxtxt.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/world-wide-web">
+    <img title="World Wide Web" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/howthewebworks.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/7-day-streak">
+    <img title="7 Day Streak" alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/streak7.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/30-day-streak">
+    <img title="30 Day Streak" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak30.svg" width="100">
+  </a>
+</div>
+
 
 ###
