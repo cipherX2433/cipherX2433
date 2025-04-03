@@ -143,7 +143,7 @@ Hi, I'm MRS
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/p/mrsspy">
     <img src="https://raw.githubusercontent.com/cipherX2433/cipherX2433/main/thm_score.png" 
-         alt="Your Image Badge" width="150" />
+         alt="Your Image Badge" width="400" />
   </a>
 </div>
 
