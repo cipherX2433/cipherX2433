@@ -13,11 +13,11 @@ Hi, I'm MRS
 	</a>
 </p>
 <br>
-<div style="text-align: center;">
+<p align="center">
 	<a href="https://github.com/cipherX">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;%20Freelancer%20;CyberSec%20|%20Red%20Teamer%20|%20Pen%20Test;center=true&amp;width=380&amp;height=45">
 	</a>
-</div>
+</p>
 
 <hr>
 <pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px;">
