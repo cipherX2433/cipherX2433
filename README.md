@@ -142,7 +142,7 @@ Hi, I'm MRS
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
- <a target="_blank" href="https://tryhackme.com/p/mrsspy"><img src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="Your Image Badge" />
+ <a target="_blank" href="https://tryhackme.com/p/mrsspy"><img src="https://drive.google.com/file/d/1tlNl3ifUTntSzDr-Q5-haNwH7taUxyMr/view?usp=sharing" alt="Your Image Badge" />
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/mrsspy/badges/network-fundamentals">
