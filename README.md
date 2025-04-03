@@ -29,10 +29,6 @@ Hi, I'm MRS
 🚀 Focused on optimizing API efficiency and performance.
 </pre>
 <hr>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipherX2433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherX2433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <!-- <img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif"><br> -->
 <!-- Snake animation -->
@@ -170,8 +166,13 @@ Hi, I'm MRS
 # 📊 GitHub Stats:
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipherX2433&theme=dark&hide_border=false) <br>
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cipherX2433&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherX2433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=cipherX2433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherX2433&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
