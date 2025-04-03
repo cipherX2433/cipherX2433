@@ -15,16 +15,17 @@ Hi, I'm MRS
 <br>
 <p align="center">
 	<a href="https://github.com/cipherX">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;CyberSec%20|%20Red%20Team%20|%20Pen%20Test;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;CyberSec%20|%20Red%20Teamer%20|%20Pen%20Test;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
 <hr>
 <pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px;">
+😎I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.
 💻 I am a self-taught Backend Developer and a CyberSecurity student.
 📚 Currently pursuing a Bachelor's in Computer Science at VIT University.
 📝 Passionate about Backend Development and CyberSecurity.
 🔭 Worked on Natural Language Processing and Generative AI.
-🌱 Exploring Pen Testing and Red Teaming techniques.
+🌱 Exploring Pen Testing and Red Teaming.
 🌟 Main languages: Go, Java, Python and C++.
 🚀 Focused on optimizing API efficiency and performance.
 </pre>
