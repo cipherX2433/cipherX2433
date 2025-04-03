@@ -29,19 +29,14 @@ Hi, I'm MRS
 🚀 Focused on optimizing API efficiency and performance.
 </pre>
 <hr>
-<!-- <h2 id="-connect-with-me">🤝 Connect with me</h2>
-<p align="center">
-	<a href="mailto:mohit.mr11082@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-	<a href="https://www.linkedin.com/in/cipherX/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-	<a href="https://github.com/cipherX2433"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-	<a href="https://www.kaggle.com/cipherX"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a>
-</p> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cipherX2433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherX2433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+# 💻 Tech Stack:
+<h3 align="left">Language and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
