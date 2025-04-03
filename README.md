@@ -141,9 +141,12 @@ Hi, I'm MRS
 ### 🎯 TryHackMe Profile
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
-  <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
- <a target="_blank" href="https://tryhackme.com/p/mrsspy"><img src="https://drive.google.com/file/d/1tlNl3ifUTntSzDr-Q5-haNwH7taUxyMr/view?usp=sharing" alt="Your Image Badge" />
+  <a target="_blank" href="https://tryhackme.com/p/mrsspy">
+    <img src="https://raw.githubusercontent.com/cipherX2433/cipherX2433/main/thm_score.png" 
+         alt="Your Image Badge" width="150" />
+  </a>
 </div>
+
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/mrsspy/badges/network-fundamentals">
 	  <img title="Network Fundamentals" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="100">
