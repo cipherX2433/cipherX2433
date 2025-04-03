@@ -133,4 +133,11 @@ Hi, I'm MRS
 <img src="https://cdn.simpleicons.org/burpsuite/FF5733" height="30" alt="burpsuite logo"  />
 </div>
 
+### 🎯 TryHackMe Profile
+<!-- TryHackMe Profile and Badges -->
+<div align="center">
+  <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
+ <a target="_blank" href="https://tryhackme.com/p/mrsspy"><img src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="Your Image Badge" />
+</div>
+
 ###
