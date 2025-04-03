@@ -167,12 +167,7 @@ Hi, I'm MRS
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipherX2433&theme=dark&hide_border=false) <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherX2433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=cipherX2433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherX2433&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
