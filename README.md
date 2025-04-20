@@ -16,7 +16,7 @@ Hi, I'm MRS
 <p align="center">
 	<a href="https://github.com/cipherX">
 		<img src="https://readme-typing-svg.herokuapp.com?			 
-                     lines=%20Computer+Science+Student;%20Full+Stack+Web+Developer;%20Freelancer%20;CyberSec%20|%20Red%20Teamer%20|%20Pen%20Test;&amp;width=380&amp;height=45">
+lines=Computer+Science+Student;%20Full+Stack+Web+Developer;%20Freelancer%20;CyberSec%20|%20Red%20Teamer%20|%20Pen%20Test;&amp;width=380&amp;height=45">
 	</a>
 </p>
 
