@@ -166,6 +166,30 @@ Hi, I'm MRS
   <a target="_blank" href="https://tryhackme.com/your-username/badges/30-day-streak">
     <img title="30 Day Streak" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak30.svg" width="100">
   </a>
+<a target="_blank" href="https://tryhackme.com/your-username/badges/phishing">
+    <img title="Phishing" alt="TryHackMe Phishing badge" src="https://tryhackme.com/img/badges/phishing.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/intro-to-web-hacking">
+    <img title="Intro to Web Hacking" alt="TryHackMe Intro to Web Hacking badge" src="https://tryhackme.com/img/badges/intro-web-hacking.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/pentesting-principles">
+    <img title="Pentesting Principles" alt="TryHackMe Pentesting Principles badge" src="https://tryhackme.com/img/badges/pentesting-principles.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/league-locked-legend">
+    <img title="League Locked Legend" alt="TryHackMe League Locked Legend badge" src="https://tryhackme.com/img/badges/league-locked-legend.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/burped-owasp-top-10">
+    <img title="Burp'ed OWASP Top 10" alt="TryHackMe Burp'ed OWASP Top 10 badge" src="https://tryhackme.com/img/badges/burped-owasp-top-10.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/security-awareness">
+    <img title="Security Awareness" alt="TryHackMe Security Awareness badge" src="https://tryhackme.com/img/badges/security-awareness.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/metasploitable">
+    <img title="Metasploitable" alt="TryHackMe Metasploitable badge" src="https://tryhackme.com/img/badges/metasploitable.svg" width="100">
+  </a>
+  <a target="_blank" href="https://tryhackme.com/your-username/badges/pentester-tools">
+    <img title="Pentester Tools" alt="TryHackMe Pentester Tools badge" src="https://tryhackme.com/img/badges/pentester-tools.svg" width="100">
+  </a>
 </div>
 
 # 📊 GitHub Stats:
