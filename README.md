@@ -142,7 +142,7 @@ Hi, I'm MRS
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/p/mrsspy">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mrsspy.png" alt="Your Image Badge" width="500" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mrsspy.png" alt="Your Image Badge" />
   </a>
 </div>
 
@@ -194,6 +194,7 @@ Hi, I'm MRS
 # 📊 GitHub Stats:
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipherX2433&theme=dark&hide_border=false) <br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=cipherX2433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
  
