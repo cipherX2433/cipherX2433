@@ -20,7 +20,7 @@ Hi, I'm MRS
 </p>
 
 <hr>
-<pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px;">
+<pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px; text-align: center;">
 😎I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.
 💻 I am a self-taught Backend Developer and a CyberSecurity student.
 📚 Currently pursuing a Bachelor's in Computer Science at VIT University.
