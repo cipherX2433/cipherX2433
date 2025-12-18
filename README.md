@@ -22,20 +22,12 @@ Hi, I'm MRS
 <img align="right" alt="AI" width="400" src="/image.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hiralsathwara&label=Profile%20views&color=0e75b6&style=flat" alt="Hiralsathwara" /> </p>
 
+- 👋 Hi, I’m @Mohit
+- 👀 I’m interested in **Machine Learning, Artificial Intelligence, and Data Science**
+- 🌱 I’m currently learning **AI & ML**, constantly exploring new algorithms and tools
+- 💞️ I’m looking to collaborate on **innovative AI & ML projects**
+- 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mohit-ranjan-064572277/)
 
-
-<hr>
-<pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px; text-align: center;">
-😎I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.
-💻 I am a self-taught Backend Developer and a CyberSecurity student.
-📚 Currently pursuing a Bachelor's in Computer Science at VIT University.
-📝 Passionate about Backend Development and CyberSecurity.
-🔭 Worked on Natural Language Processing and Generative AI.
-🌱 Exploring Pen Testing and Red Teaming.
-🌟 Main languages: Go, Java, Python and C++.
-🚀 Focused on optimizing API efficiency and performance.
-</pre>
-<hr>
 
 <!-- <img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif"><br> -->
 <!-- Snake animation -->
