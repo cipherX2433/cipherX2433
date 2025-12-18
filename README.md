@@ -20,7 +20,6 @@ Hi, I'm MRS
 </p>
 
 <img align="right" alt="AI" width="400" src="/image.png"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hiralsathwara&label=Profile%20views&color=0e75b6&style=flat" alt="Hiralsathwara" /> </p>
 
 - 👋 Hi, I’m @Mohit
 - 👀 I’m interested in **Machine Learning, Artificial Intelligence, and Data Science**
