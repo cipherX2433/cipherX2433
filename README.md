@@ -19,6 +19,11 @@ Hi, I'm MRS
     </a>
 </p>
 
+<img align="right" alt="AI" width="400" src="/image.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hiralsathwara&label=Profile%20views&color=0e75b6&style=flat" alt="Hiralsathwara" /> </p>
+
+
+
 <hr>
 <pre style="background-color: #1e1e1e; color: #00ff00; padding: 10px; font-size: 16px; border-radius: 8px; text-align: center;">
 😎I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.
