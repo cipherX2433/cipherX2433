@@ -33,7 +33,7 @@ $ cat /etc/mohit/profile.txt
 
 ```
 Name     : Mohit Ranjan  (alias: MRS | cipherX2433)
-Role     : CS Student | AI/ML Engineer | Full Stack Dev | Red Teamer
+Role     : CS Student | AI/ML Engineer | Backend Engineer | Red Teamer
 Location : India  🇮🇳
 Status   : [ ACTIVE ] — Building | Breaking | Learning
 ```
