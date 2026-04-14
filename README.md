@@ -10,7 +10,7 @@
 ```
 
 <a href="https://github.com/cipherX2433">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Red+Teamer+%7C+Pen+Tester+%F0%9F%94%93;Breaking+Things+to+Build+Better+Ones+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Backend+Engineer+%F0%9F%92%BB;Red+Teamer+%7C+Pen+Tester+%F0%9F%94%93;Breaking+Things+to+Build+Better+Ones+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
