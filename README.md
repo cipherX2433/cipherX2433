@@ -46,7 +46,7 @@ Status   : [ ACTIVE ] — Building | Breaking | Learning
 
 - 🤖 Diving deep into **AI, ML & Data Science** — algorithms, architectures, and everything in between
 - 🔐 Sharpening my **Red Team / Penetration Testing** skills on TryHackMe & real-world labs
-- 🌐 Building full-stack applications with **React, Next.js, Node, and FastAPI**
+- 🌐 Building Backend applications with **Nodejs, Spring, and Go**
 - 🤝 Open to collaborating on **innovative AI/ML projects** — let's build something cool
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mohit-ranjan-064572277/)
 
