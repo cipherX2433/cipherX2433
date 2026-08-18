@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#fb7185"/><stop offset=".5" stop-color="#e879f9"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><style>@keyframes bar{from{width:0}to{width:var(--w)}}.bar{animation:bar 1.3s cubic-bezier(.2,.8,.2,1) forwards}</style></defs>
+<rect width="640" height="270" rx="24" fill="#0d0814" stroke="#6d3b83"/><text x="28" y="38" font-family="ui-sans-serif,system-ui" font-size="16" font-weight="800" fill="#fff">LANGUAGE FOCUS</text><text x="28" y="59" font-family="ui-monospace,monospace" font-size="10" fill="#94a3b8">Declared core skills — not a live language breakdown</text>
+<g font-family="ui-monospace,monospace" font-size="13" fill="#e2e8f0">
+<text x="28" y="92">Python</text><text x="28" y="137">Java</text><text x="28" y="182">C/C++</text><text x="28" y="227">SQL / Data</text>
+</g>
+<g fill="#24142f"><rect x="130" y="82" width="430" height="12" rx="6"/><rect x="130" y="127" width="430" height="12" rx="6"/><rect x="130" y="172" width="430" height="12" rx="6"/><rect x="130" y="217" width="430" height="12" rx="6"/></g>
+<g fill="url(#g)"><rect class="bar" style="--w:360px;animation-delay:.2s" x="130" y="82" height="12" rx="6"/><rect class="bar" style="--w:290px;animation-delay:.45s" x="130" y="127" height="12" rx="6"/><rect class="bar" style="--w:250px;animation-delay:.7s" x="130" y="172" height="12" rx="6"/><rect class="bar" style="--w:205px;animation-delay:.95s" x="130" y="217" height="12" rx="6"/></g>
+</svg>
