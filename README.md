@@ -13,6 +13,7 @@
 **Data Scientist · ML Engineer · Backend Developer · AI Engineer**
 
 `cipherX2433` · [mohitranjan11082@gmail.com](mailto:mohitranjan11082@gmail.com)
+`LinkedIn` . [LinkedIn](https://www.linkedin.com/in/mohit-ranjan-064572277/)
 
 > **Code. Learn. Build. Repeat.**
 
