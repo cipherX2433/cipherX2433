@@ -1,49 +1,117 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner-light.svg?v=1" alt="cipherX developer banner" width="100%">
-</picture>
+<img src="./banner.svg" width="100%" alt="cipherX">
+
+<br>
 
 # cipherX
 
-**AI Engineer · ML Engineer · Data Scientist · Backend Developer**
+### AI Engineer · ML Engineer · Data Scientist · Backend Developer
 
-`cipherX2433`
+**Building intelligent systems, scalable backends, and things worth shipping.**
 
-> **Code. Learn. Build. Repeat.**
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-cipherX2433-181717?style=for-the-badge\&logo=github)](https://github.com/cipherX2433)
+[![GitHub](https://img.shields.io/badge/GitHub-cipherX2433-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/cipherX2433)
+[![Profile Views](https://komarev.com/ghpvc/?username=cipherX2433\&style=flat-square\&color=4D7CFF\&label=VIEWS)](https://github.com/cipherX2433)
 
 </div>
 
 ---
 
-## `whoami`
+## ✦ About
 
-```text
-> identity
-cipherX
+I'm **cipherX** — a developer interested in the space where **AI, data and software engineering** meet.
 
-> role
-AI Engineer / ML Engineer / Data Scientist / Backend Developer
+I enjoy taking ideas from **concept → experiment → system → production**.
 
-> focus
-Artificial Intelligence
-Machine Learning
-Data Science
-Backend Systems
+My current interests include:
 
-> languages
-Python · Java · C/C++ · JavaScript · Go
+* Artificial Intelligence & Machine Learning
+* LLMs, RAG & intelligent applications
+* Backend architecture & APIs
+* Data Science & applied ML
+* Distributed systems & databases
+* Open-source development
 
-> status
-[ ACTIVE ] Building · Learning · Shipping
-```
+> **Learn deeply. Build relentlessly. Ship consistently.**
 
-I build at the intersection of **AI, data and backend engineering**.
+---
 
-My interests span intelligent systems, machine learning, data-driven applications, scalable APIs and developer-focused tooling.
+## ⚡ Tech Stack
 
-Currently focused on turning ideas into **useful, production-oriented systems**.
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,go" />
+
+<br><br>
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+
+<br><br>
+
+### Backend / Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mongodb,redis" />
+
+<br><br>
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Systems
+
+Building applications around:
+
+* LLMs
+* RAG pipelines
+* Semantic search
+* Machine learning
+* Intelligent automation
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+Working with:
+
+* REST APIs
+* Authentication
+* Databases
+* Distributed services
+* Scalable architectures
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Selected Projects
+
+<div align="center">
+
+|            Project            | Description                                                                                |     Technologies    |
+| :---------------------------: | ------------------------------------------------------------------------------------------ | :-----------------: |
+|           **HireAI**          | AI-powered hiring platform for resume analysis, candidate screening and semantic matching. |  AI · ML · Backend  |
+|         **roomCloud**         | Hotel booking backend with authentication, RBAC, inventory and payment workflows.          |  Java · Spring Boot |
+| **Emotion Music Recommender** | Multimodal recommendation system using emotion signals from image and text.                | Deep Learning · NLP |
+|   **VIT Academic Assistant**  | RAG-powered academic assistant for university-related questions.                           |      RAG · LLM      |
+|        **MiniVectorDB**       |                                                                                            |                     |
