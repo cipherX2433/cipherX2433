@@ -72,12 +72,6 @@ I enjoy working at the intersection of **data, intelligent systems and software 
 |---|---|---|
 | **HireAI** | AI-powered hiring platform for resume parsing, candidate screening, semantic matching and automated interviews. | AI · ML · Backend |
 | **roomCloud** | Scalable hotel-booking API with authentication, RBAC, inventory and payment workflows. | Java · Spring Boot |
-| **Emotion Music Recommender** | Multimodal emotion-aware music recommendation using image/text signals. | Deep Learning · NLP |
-| **VIT Academic Assistant** | RAG-based academic assistant for answering university-related questions. | RAG · LLM · Embeddings |
-| **MiniVectorDB** | Lightweight vector-database implementation exploring similarity search fundamentals. | Python · Go · Vector Search |
-| **ML / Data Science Projects** | End-to-end data cleaning, feature engineering, model training and evaluation projects. | Python · ML |
-
----
 
 ## 💻 buildDreams.jsx
 
