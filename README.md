@@ -1,12 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner-light.svg?v=1" alt="cipherX animated developer banner" width="100%">
-</picture>
-
-<img src="./lanyard.svg?v=1" alt="Mohit Ranjan developer lanyard" width="420">
 
 # cipherX
 
