@@ -3,24 +3,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner-light.svg?v=1" alt="Mohit Ranjan animated developer banner" width="100%">
+  <img src="./banner-light.svg?v=1" alt="cipherX animated developer banner" width="100%">
 </picture>
 
 <img src="./lanyard.svg?v=1" alt="Mohit Ranjan developer lanyard" width="420">
 
-# Mohit Ranjan
+# cipherX
 
 **Data Scientist · ML Engineer · Backend Developer · AI Engineer**
-
-`cipherX2433` · [mohitranjan11082@gmail.com](mailto:mohitranjan11082@gmail.com)
-`LinkedIn` . [LinkedIn](https://www.linkedin.com/in/mohit-ranjan-064572277/)
 
 > **Code. Learn. Build. Repeat.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-cipherX2433-181717?style=for-the-badge&logo=github)](https://github.com/cipherX2433)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Ranjan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-ranjan-93a674250/)
-[![Email](https://img.shields.io/badge/Email-Contact-E879F9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitranjan11082@gmail.com)
-
 </div>
 
 ---
@@ -28,8 +22,8 @@
 ## 👾 whoami
 
 ```text
-Name     : Mohit Ranjan
-Alias    : MRS | cipherX2433
+Name     : cipherX
+Alias    : cipherX2433
 Role     : Data Scientist | ML Engineer | Backend Developer | AI Engineer
 Focus    : Python | Java | C/C++
 Status   : [ ACTIVE ] — Building | Learning | Shipping
@@ -152,8 +146,6 @@ const buildDreams = () => {
 **Interested in AI/ML, data, backend engineering or building something interesting?**
 
 [GitHub](https://github.com/cipherX2433) ·
-[LinkedIn](https://www.linkedin.com/in/mohit-ranjan-93a674250/) ·
-[mohitranjan11082@gmail.com](mailto:mohitranjan11082@gmail.com)
 
 ### `KEEP CODING • KEEP GROWING`
 
