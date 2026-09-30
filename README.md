@@ -1,83 +1,103 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="cipherX">
+# `cipherX`
 
-<br>
+### MACHINE LEARNING × SECURITY RESEARCH
 
-# cipherX
+```text
+[ AI / ML ]  [ SECURITY ]  [ RESEARCH ]  [ SYSTEMS ]
 
-### ML Research · AI Security · Cybersecurity · Backend Systems
+researching intelligent systems
+breaking assumptions
+understanding attack surfaces
+building secure systems
+```
 
-**Exploring intelligent systems, their vulnerabilities, and how to build them more securely.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-cipherX2433-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/cipherX2433)
+`cipherX2433`
 
 </div>
 
 ---
 
-## Research Interests
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                      RESEARCH PROFILE                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  identity      cipherX                                       │
+│  focus         ML / AI Security / Cybersecurity              │
+│  interests     Adversarial ML / LLM Security / RAG           │
+│  systems       Linux / Backend / Databases                   │
+│  languages     Python / C++ / Java / Go / JavaScript         │
+│  status        RESEARCHING                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-My work sits at the intersection of **Machine Learning and Security**.
+## `01 / research`
 
-I'm particularly interested in understanding how intelligent systems behave, where they fail, and how they can be made more robust.
+I work at the intersection of **machine learning and security**.
+
+My interest is not only in building intelligent systems, but also in understanding their **failure modes, attack surfaces, limitations, and defenses**.
 
 ```text
 Machine Learning
-│
-├── Deep Learning
-├── NLP / LLMs
-├── Representation Learning
-├── Model Evaluation
-└── ML Systems
         │
-        ▼
-Security
-│
-├── Adversarial ML
-├── LLM Security
-├── AI Red Teaming
-├── Prompt Injection
-├── Model Robustness
-├── Application Security
-└── Offensive Security Research
+        ├── Deep Learning
+        ├── NLP / LLMs
+        ├── RAG
+        ├── Embeddings
+        └── Model Evaluation
+                │
+                ▼
+              SECURITY
+                │
+        ├── Adversarial ML
+        ├── LLM Security
+        ├── AI Red Teaming
+        ├── Prompt Injection
+        ├── API Security
+        ├── Web Security
+        └── Vulnerability Research
 ```
 
 ---
 
-## Areas of Focus
+## `02 / areas`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+### ML / AI
 
-* Deep Learning
-* NLP
-* LLMs
-* RAG systems
-* Embeddings
-* Model evaluation
-* ML pipelines
-* Representation learning
+```text
+Deep Learning
+Natural Language Processing
+Large Language Models
+RAG Systems
+Vector Search
+Embeddings
+Model Evaluation
+ML Pipelines
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Security
+### SECURITY
 
-* AI / ML Security
-* Adversarial Machine Learning
-* LLM Red Teaming
-* Prompt Injection
-* Web Security
-* API Security
-* Vulnerability Research
-* Security Automation
+```text
+AI Security
+Adversarial ML
+LLM Red Teaming
+Prompt Injection
+Web Security
+API Security
+Vulnerability Research
+Security Automation
+```
 
 </td>
 </tr>
@@ -85,112 +105,167 @@ Security
 
 ---
 
-## Current Research
+## `03 / toolkit`
 
 ```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  AI SECURITY                                     │
-│                                                  │
-│  → Understanding LLM vulnerabilities             │
-│  → Adversarial inputs & model robustness         │
-│  → AI application attack surfaces                │
-│  → Secure RAG architectures                     │
-│  → Automated security testing                   │
-│                                                  │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  MACHINE LEARNING                                │
-│                                                  │
-│  → Model experimentation                         │
-│  → NLP & representation learning                 │
-│  → Data pipelines                                │
-│  → Evaluation & benchmarking                     │
-│                                                  │
-└──────────────────────────────────────────────────┘
+LANGUAGES
+────────────────────────────────────────
+Python       ████████████████████
+C/C++        ███████████████
+Java         █████████████
+Go           ███████████
+JavaScript   ██████████
+
+
+ML / AI
+────────────────────────────────────────
+PyTorch
+TensorFlow
+Scikit-Learn
+Pandas
+NumPy
+LangChain
+FAISS
+
+
+SYSTEMS
+────────────────────────────────────────
+Linux
+Docker
+Git
+PostgreSQL
+MongoDB
+Redis
+Node.js
+Spring Boot
 ```
 
 ---
 
-## Research Stack
+## `04 / projects`
 
-<div align="center">
+### `HireAI`
 
-### ML / AI
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" />
-
-<br><br>
-
-### Security / Systems
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" />
-
-<br><br>
-
-### Backend / Infrastructure
-
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,postgres,mongodb,redis" />
-
-</div>
-
----
-
-## Selected Work
-
-| Project                       | Research / Engineering Focus                                                       |
-| ----------------------------- | ---------------------------------------------------------------------------------- |
-| **HireAI**                    | AI-powered candidate analysis, semantic matching and automated interview workflows |
-| **VIT Academic Assistant**    | RAG, embeddings and LLM-based information retrieval                                |
-| **Emotion Music Recommender** | Multimodal ML and emotion-aware recommendation                                     |
-| **MiniVectorDB**              | Vector search and similarity retrieval fundamentals                                |
-| **Security Experiments**      | Web security, API testing and security automation                                  |
-
----
-
-## Research Methodology
+AI-powered hiring platform focused on:
 
 ```text
-        ┌─────────────┐
-        │   Observe   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   Hypothesize│
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  Experiment │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    Break    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   Analyze   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    Build    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    Share    │
-        └─────────────┘
+resume parsing
+candidate screening
+semantic matching
+automated interviews
+AI workflows
 ```
-
-I prefer **experimentation over assumptions** — build the system, test the boundary, understand the failure mode, and document what was learned.
 
 ---
 
-## GitHub Activity
+### `VIT Academic Assistant`
+
+RAG-based academic assistant exploring:
+
+```text
+document ingestion
+embeddings
+vector search
+retrieval
+LLM generation
+```
+
+---
+
+### `MiniVectorDB`
+
+A lightweight implementation exploring the fundamentals behind:
+
+```text
+vector indexing
+similarity search
+embeddings
+retrieval systems
+```
+
+---
+
+### `Emotion Music Recommender`
+
+Multimodal ML experiment exploring:
+
+```text
+image signals
+text signals
+emotion classification
+recommendation
+```
+
+---
+
+## `05 / research loop`
+
+```text
+                  ┌──────────────┐
+                  │    OBSERVE   │
+                  └──────┬───────┘
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │  HYPOTHESIZE │
+                  └──────┬───────┘
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │  EXPERIMENT  │
+                  └──────┬───────┘
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │    ATTACK    │
+                  └──────┬───────┘
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │    ANALYZE   │
+                  └──────┬───────┘
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │    DEFEND    │
+                  └──────┬───────┘
+                         │
+                         └───────────────┐
+                                         │
+                                         ▼
+                                  `DOCUMENT`
+```
+
+---
+
+## `06 / currently exploring`
+
+```text
+AI SECURITY
+├── LLM vulnerabilities
+├── Prompt injection
+├── AI application security
+├── Adversarial inputs
+└── Model robustness
+
+MACHINE LEARNING
+├── Representation learning
+├── NLP
+├── LLM architectures
+├── Model evaluation
+└── Retrieval systems
+
+CYBERSECURITY
+├── Web security
+├── API security
+├── Linux
+├── Vulnerability research
+└── Security automation
+```
+
+---
+
+## `07 / github`
 
 <div align="center">
 
@@ -208,80 +283,43 @@ I prefer **experimentation over assumptions** — build the system, test the bou
 
 ---
 
-## Security × AI
-
-```python
-research = {
-    "machine_learning": [
-        "models",
-        "data",
-        "embeddings",
-        "llms",
-        "evaluation"
-    ],
-
-    "security": [
-        "attack_surface",
-        "adversarial_inputs",
-        "red_teaming",
-        "vulnerability_research",
-        "defense"
-    ],
-
-    "goal": "understand → test → secure"
-}
-```
-
----
-
-## What I'm Learning
+## `08 / mindset`
 
 ```text
-[ ML ]
-Deep Learning
-LLMs
-RAG
-Model Security
-Adversarial ML
-
-[ SECURITY ]
-Web Security
-API Security
-AI Red Teaming
-Vulnerability Research
-Offensive Security
-
-[ SYSTEMS ]
-Linux
-Backend Architecture
-Databases
-Distributed Systems
+              BUILD
+                │
+                ▼
+             BREAK
+                │
+                ▼
+           UNDERSTAND
+                │
+                ▼
+            IMPROVE
+                │
+                ▼
+             SECURE
+                │
+                └───────────────┐
+                                │
+                                ▼
+                              BUILD
 ```
 
----
-
-## Philosophy
-
-<div align="center">
-
-> **Understand the model.**
->
-> **Understand the attack.**
->
-> **Understand the system.**
->
-> **Build something better.**
-
-<br>
-
-`RESEARCH • EXPERIMENT • BREAK • UNDERSTAND • BUILD`
-
-</div>
+> **Don't just use the system. Understand the system.**
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4D7CFF&height=100&section=footer" width="100%">
+```text
+────────────────────────────────────────────
+
+       cipherX // research in progress
+
+       ML × SECURITY × SYSTEMS
+
+────────────────────────────────────────────
+```
 
 </div>
